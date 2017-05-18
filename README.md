@@ -1,4 +1,4 @@
-# PAYDAY_2_BigLobbyMod_Installer
+# PAYDAY 2 BigLobbyMod Installer by Plati!
 
 Sources: 
 https://github.com/polarathene/biglobby (Orginal BigLobby Mod)
