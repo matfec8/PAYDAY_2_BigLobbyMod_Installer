@@ -8,3 +8,7 @@ https://github.com/JamesWilko/Payday-2-BLT/releases/download/1.07/Payday2BLT_r11
 ![baner](http://images.thisisxbox.com/2015/01/Payday-2-crimewave-edition.jpg)
 
 This program will be help You with installing BigLobby Mod for PayDay2.
+
+```bash
+Coded using Visual Studio 2017 (C#).
+```
